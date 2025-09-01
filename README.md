@@ -1,0 +1,2 @@
+# trscmake
+triangulation of space
